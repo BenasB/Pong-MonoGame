@@ -3,6 +3,11 @@
 *.DS_Store
 
 #Visual Studio files
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
 .vs
 *.pidb
 *.userprefs
