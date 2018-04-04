@@ -17,7 +17,7 @@ class Paddle : GameObject
         down = downKey;
         useLeftThumbstick = leftThumbstick;
 
-        velocity.Y = 400;
+        velocity.Y = 500;
     }
 
     public override void Update(GameTime gameTime, InputState inputState, GraphicsDevice graphicsDevice)
